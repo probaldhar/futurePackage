@@ -1,3 +1,5 @@
+import Foundation
+
 struct futurePackage {
 
     func futureValues( newP : Double, newC : Double, newN : Double ) -> Double {
